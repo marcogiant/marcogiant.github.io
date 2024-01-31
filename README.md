@@ -49,4 +49,3 @@ Waiting: Your portfolio should use at least one media query.  
 Waiting: Your #navbar element should always be at the top of the viewport.  -->
 
 
-</html>
