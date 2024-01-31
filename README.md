@@ -6,12 +6,23 @@
 </head>
 
 <main>
+<navbar id="navbar">
+<ul>
+<li><a href="#welcome-section">About</a></li>
+<li><a href="#projects">Projects</a></li>
+<li><a href="#profile-link">Contacts</a></li>
+</ul>
 
+</navbar>
 <!-- WELCOME SECTION -->
 
 <section id="welcome-section" class="welcome-section">
     <h1>Marcogiant's projects heap</h1>
     <p>a web development journey</p>
+</section>
+<section id="profile-link" class="contact-section" target="_blank">
+    <h1>Marcogiant's contacts</h1>
+    <p>contacts go here</p>
 </section>
 
 <!-- WELCOME SECTION -->
@@ -20,7 +31,7 @@
 
 <section id="projects" class="projects">
       <h2>Projects</h2>
-      <div class="proj-grid"><a class="project-title"></a></div>
+      <div class="proj-grid"><a class="project-title"><a></audiogram></a></div>
     </section>
 
 <!-- project SECTION -->
