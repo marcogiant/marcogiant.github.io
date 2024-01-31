@@ -46,7 +46,7 @@ Website
       <h1 id="marcogiantgithubio">marcogiant.github.io</h1>
 <p>Website</p>  
 
- <!--GitHub template Ends —> 
+ <!--GitHub template Ends --> 
 
 
 <main>
