@@ -1,4 +1,5 @@
 
+<main>
 <!-- WELCOME SECTION -->
 
     <section id="welcome-section" class="welcome-section">
@@ -16,3 +17,4 @@
     </section>
 
 <!-- project SECTION -->
+</main>
