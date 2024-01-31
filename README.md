@@ -21,7 +21,7 @@
     <p>a web development journey</p>
 </section>
 <section id="profile-link" class="contact-section" target="_blank">
-    <h1>Marcogiant's contacts</h1>
+    <h2>Marcogiant's contacts</h1>
     <p>contacts go here</p>
 </section>
 
