@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<link rel="stylesheet" href="marcogiant.css" type="text"/>
+<link rel="stylesheet" href="marcogiant.css" type="text/css"/>
 </head>
 
 <main>
