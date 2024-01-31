@@ -1,6 +1,7 @@
 # marcogiant.github.io
 Website 
 <!--  GitHub template starts  -->
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -47,7 +48,6 @@ Website
 
  <!--GitHub template Ends —> 
 
-<body>
 
 <main>
 
