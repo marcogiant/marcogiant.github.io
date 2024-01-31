@@ -1,4 +1,14 @@
-
+<head>
+<style>
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: var(--main-white);
+}
+</style>
+</head>
 
 
 <main>
