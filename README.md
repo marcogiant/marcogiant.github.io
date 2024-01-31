@@ -1,6 +1,6 @@
 
 
-<body>
+
 <main>
 
 <!-- WELCOME SECTION -->
@@ -33,5 +33,5 @@ Waiting: Your #profile-link element should have a target attribute of _blank.�
 Waiting: Your portfolio should use at least one media query.  
 Waiting: Your #navbar element should always be at the top of the viewport.  -->
 
-</body>
-</html>
+
+
