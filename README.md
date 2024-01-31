@@ -1,7 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-
+<link rel="stylesheet" href="marcogiant.css" type="text"/>
 </head>
-
 
 <main>
 
@@ -9,7 +11,7 @@
 
 <section id="welcome-section" class="welcome-section">
     <h1>Marcogiant's projects heap</h1>
-    <p>a web development journey for an audiophyle mind</p>
+    <p>a web development journey</p>
 </section>
 
 <!-- WELCOME SECTION -->
@@ -25,7 +27,7 @@
 
 
 </main>
-
+</body>
 
 <!-- Guide 5 PERSONAL PORTFOLIO  
 Waiting: Your portfolio should have a navbar with an id of navbar.  
@@ -36,4 +38,4 @@ Waiting: Your portfolio should use at least one media query.  
 Waiting: Your #navbar element should always be at the top of the viewport.  -->
 
 
-
+</html>
