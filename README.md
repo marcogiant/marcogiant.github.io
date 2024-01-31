@@ -2,7 +2,7 @@
 Website 
 <!--  GitHub template starts  -->
 
-<!DOCTYPE html>
+
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -43,13 +43,12 @@ Website
     <div class="container-lg px-3 my-5 markdown-body">
       
 
-      <h1 id="marcogiantgithubio">marcogiant.github.io</h1>
+<h1 id="marcogiantgithubio">marcogiant.github.io</h1>
 <p>Website</p>  
 
  <!--GitHub template Ends --> 
 
 
-<main>
 
 
 <!-- WELCOME SECTION -->
@@ -71,7 +70,7 @@ Website
 <!-- project SECTION -->
 
 
-</main>
+
 
 
 <!-- Guide 5 PERSONAL PORTFOLIO  
