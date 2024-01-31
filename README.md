@@ -21,7 +21,7 @@
     <p>a web development journey</p>
 </section>
 <section id="profile-link" class="contact-section" target="_blank">
-    <h2>Marcogiant's contacts</h1>
+    <h2>Marcogiant's contacts</h2>
     <p>contacts go here</p>
 </section>
 
@@ -37,9 +37,8 @@
 
 <!-- project SECTION -->
 
-
 </main>
-
+</html>
 <!-- Guide 5 PERSONAL PORTFOLIO  
 Waiting: Your portfolio should have a navbar with an id of navbar.  
 Waiting: Your #navbar element should contain at least one a element whose href attribute starts with #.  
