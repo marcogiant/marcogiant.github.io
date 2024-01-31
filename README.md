@@ -1,6 +1,6 @@
 # marcogiant.github.io
 Website 
-
+<!--  GitHub template starts  -->
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -43,16 +43,9 @@ Website
       
 
       <h1 id="marcogiantgithubio">marcogiant.github.io</h1>
-<p>Website</p>
+<p>Website</p>  
 
-<p>&lt;!DOCTYPE html&gt;</p>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
- <!--  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>  -->
-  <title>marcogiant.github.io</title>
-  <!-- <link href=“./styles.css” rel=“stylesheet”/> -->
-</head>
+ <!--GitHub template Ends —> 
 
 <body>
 
@@ -80,10 +73,6 @@ Website
 
 </main>
 
-</body>
-
-
-</html>
 
 <!-- Guide 5 PERSONAL PORTFOLIO  
 Waiting: Your portfolio should have a navbar with an id of navbar.  
@@ -95,7 +84,7 @@ Waiting: Your #navbar element should always be at the top of the viewport.  
 
 
       
-    </div>
+    </div> 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
