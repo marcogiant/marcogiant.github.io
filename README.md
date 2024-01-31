@@ -31,7 +31,7 @@
 
 <section id="projects" class="projects">
       <h2>Projects</h2>
-      <div class="proj-grid"><a class="project-title"><a></audiogram></a></div>
+      <div class="proj-grid"><a class="project-title"><a>Audiogram</a></div>
       <div class="proj-grid"><a class="project-title"><a>Synthesisstuff</a></div>
     </section>
 
