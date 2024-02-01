@@ -36,7 +36,7 @@
         <a>Synthesisstuff</a>
 
 <!-- JavaScript section -->
-<script src="./marcogiant.js"> </script> 
+<div></div>
   <button id="start">Start</button>
   <button id="stop">
     Stop
@@ -56,6 +56,7 @@
   <label for="sawtooth">Sawtooth Wave</label>
 </div>
     </section>
+    <script src="marcogiant.js"></script> 
 
 <!-- project SECTION -->
 
