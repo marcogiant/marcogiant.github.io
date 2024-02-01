@@ -32,13 +32,34 @@
 <section id="projects" class="projects">
       <h2>Projects</h2>
       <div class="proj-grid"><a class="project-title"><a>Audiogram</a></div>
-      <div class="proj-grid"><a class="project-title"><a>Synthesisstuff</a></div>
+      <div class="proj-grid"><a class="project-title">
+        <a>Synthesisstuff</a>
+
+<!-- JavaScript section -->
+<script src="./marcogiant.js"> </script> 
+  <button id="start">Start</button>
+  <button id="stop">
+    Stop
+  </button>
+  <br>
+  <span>Master Volume</span>
+  <br>
+  <input type="range" id="volume-control" min="0" max="1" step="0.05" value="0.1"><br>
+  <input type="radio" id="sin-wave" name="waveform" value="sine"
+         checked>
+  <label for="sin-wave">Sin Wave</label><br>
+  <input type="radio" id="square-wave" name="waveform" value="square">
+  <label for="square-wave">Square Wave</label><br>
+  <input type="radio" id="triangle-wave" name="waveform" value="triangle">
+  <label for="triangle-wave">Triangle Wave</label><br>
+  <input type="radio" id="sawtooth-wave" name="waveform" value="sawtooth">
+  <label for="sawtooth">Sawtooth Wave</label>
+</div>
     </section>
 
 <!-- project SECTION -->
 
-<!-- JavaScript section -->
-<script src="./marcogiant.js"> </script> 
+
 
 </main>
 </html>
