@@ -37,6 +37,9 @@
 
 <!-- project SECTION -->
 
+<!-- JavaScript section -->
+<script src="./marcogiant.js"></script> 
+
 </main>
 </html>
 <!-- Guide 5 PERSONAL PORTFOLIO  
