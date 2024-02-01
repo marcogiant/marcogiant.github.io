@@ -31,9 +31,8 @@
 
 <section id="projects" class="projects">
       <h2>Projects</h2>
-      <div class="proj-grid"><a class="project-title"><a>Audiogram</a></div>
-      <div class="proj-grid"><a class="project-title">
-        <a>Synthesisstuff</a>
+      <div class="proj-grid"><a class="project-title">Audiogram</a></div>
+      <div class="proj-grid"><a class="project-title">Synthesisstuff</a></div>
 
 <!-- JavaScript section -->
 <div></div>
@@ -54,9 +53,10 @@
   <label for="triangle-wave">Triangle Wave</label><br>
   <input type="radio" id="sawtooth-wave" name="waveform" value="sawtooth">
   <label for="sawtooth">Sawtooth Wave</label>
-</div>
+
     </section>
-    <script src="marcogiant.js"></script> 
+
+<script src="marcogiant.js"></script> 
 
 <!-- project SECTION -->
 
