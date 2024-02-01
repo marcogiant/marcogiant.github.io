@@ -38,7 +38,7 @@
 <!-- project SECTION -->
 
 <!-- JavaScript section -->
-<script src="./marcogiant.js"></script> 
+<script src="./marcogiant.js"> </script> 
 
 </main>
 </html>
